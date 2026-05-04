@@ -1,0 +1,13 @@
+{
+  "itemGroup.toolsplusplus": "Example Mod Tab",
+  "block.toolsplusplus.example_block": "Example Block",
+  "item.toolsplusplus.example_item": "Example Item",
+
+  "toolsplusplus.configuration.title": "toolsplusplus Configs",
+  "toolsplusplus.configuration.section.toolsplusplus.common.toml": "toolsplusplus Configs",
+  "toolsplusplus.configuration.section.toolsplusplus.common.toml.title": "toolsplusplus Configs",
+  "toolsplusplus.configuration.items": "Item List",
+  "toolsplusplus.configuration.logDirtBlock": "Log Dirt Block",
+  "toolsplusplus.configuration.magicNumberIntroduction": "Magic Number Text",
+  "toolsplusplus.configuration.magicNumber": "Magic Number"
+}
